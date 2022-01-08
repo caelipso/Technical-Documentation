@@ -1,4 +1,7 @@
-#main-doc{
-    position: absolute;
-    margin-left: 250px;
+#main-doc {
+  position: absolute;
+  margin: 20px 10% 0 250px;
+}
+.main-section {
+  /* margin: 0 10% 7% 0; */
 }
