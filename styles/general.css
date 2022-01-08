@@ -1,8 +1,22 @@
 /* fonts
-font-family: 'Andika', sans-serif;
-font-family: 'Harmattan', sans-serif;
-font-family: 'Roboto', sans-serif; */
+h1 - h3 = font-family: 'Andika', sans-serif;
+h2  = font-family: 'Roboto', sans-serif;
+p = font-family: 'Harmattan', sans-serif;
+ */
 
 .page-wraper {
-  font-family: ;
+  margin: 0 5%;
+}
+h1,
+h3 {
+  font-family: "Andika", sans-serif;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+p {
+  font-family: "Harmattan", sans-serif;
+  line-height: 120%;
+  font-size: 150%;
+  text-align: justify;
 }
