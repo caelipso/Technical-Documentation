@@ -2,8 +2,8 @@
   position: absolute;
   margin: 20px 10% 0 250px;
 }
-/* @media only screen and (max-width:800px){
+@media only screen and (max-width:800px){
     #main-doc {
         position: relative;
     }
-} */
+}
