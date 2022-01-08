@@ -2,6 +2,8 @@
   position: absolute;
   margin: 20px 10% 0 250px;
 }
-.main-section {
-  /* margin: 0 10% 7% 0; */
-}
+/* @media only screen and (max-width:800px){
+    #main-doc {
+        position: relative;
+    }
+} */
